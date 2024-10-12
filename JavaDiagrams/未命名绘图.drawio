@@ -315,7 +315,7 @@
         <mxCell id="kH9MLhwengYHdYV4Ar4A-50" value="tail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="1730" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kH9MLhwengYHdYV4Ar4A-51" value="CHL队列&lt;div&gt;（FIFO）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="kH9MLhwengYHdYV4Ar4A-51" value="CLH队列&lt;div&gt;（FIFO）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="15" y="1620" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
